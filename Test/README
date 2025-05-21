@@ -1,0 +1,4 @@
+För att starta programmet: kör "npm ./server.js" i backend-mappen, och kör "npm run" i frontend-mappen
+
+Notera att IP-adressen förmoderligen behöver justeras i server.js, env-filerna och useWebSocket.js
+(sök på 192.168.1.99 genom ctrl+shift+f för att hitta alla ställen IP-adressen måste ändras)
