@@ -1,0 +1,1 @@
+Detta är slutprojektet i webbserverprogrammering. Programmet är ett chat-program där användare kan chatta med varandra i en public-chat och en private-chat. Det finns även en adminnpanel där man kan logga in för att se alla meddelanden och raddera dem.  
